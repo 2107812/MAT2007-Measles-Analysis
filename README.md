@@ -54,4 +54,4 @@ The analysis found substantial variation in reported cases between countries and
 
 ## Report
 
-The written report is available as MAT2007_Introduction_to_Programming_Project.pdf, with the LaTeX source in MAT2007_Project.tex.
+The written report is available as MAT2007_Introduction_to_Programming_Project_LaTex.pdf, with the LaTeX source in MAT2007_Project.tex.
